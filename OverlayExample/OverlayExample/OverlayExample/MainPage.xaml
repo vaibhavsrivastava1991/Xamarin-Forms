@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OverlayExample"
+             x:Class="OverlayExample.MainPage" BackgroundColor="Black">
+
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <ContentView>
+                <Label Text="Overlay Button Example" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalOptions="Center" TextColor="White"></Label>
+            </ContentView>
+            <ContentView x:Name="btnUploadPhoto"  AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" BackgroundColor="Transparent" HorizontalOptions="End" VerticalOptions="EndAndExpand" Margin="0,0,25,40">
+                <!--<Button BackgroundColor="#00bfff" Clicked="btnUploadPhoto_Clicked" IsVisible="True" HeightRequest="60" WidthRequest="60" CornerRadius="30" Text="+" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" TextColor="White" FontSize="Medium" BorderColor="#00bfff" Style="{StaticResource ButtonStyleAndroid}"/>-->
+                <Image Source="UplodPhoto_ImageIcon.png" HeightRequest="70" WidthRequest="70" IsVisible="True" VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
+                   
+                </Image>
+            </ContentView>
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>

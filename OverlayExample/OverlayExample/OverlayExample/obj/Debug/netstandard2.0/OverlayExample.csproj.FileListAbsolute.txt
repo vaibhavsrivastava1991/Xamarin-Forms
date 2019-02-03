@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\bin\Debug\netstandard2.0\OverlayExample.deps.json
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\bin\Debug\netstandard2.0\OverlayExample.dll
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\bin\Debug\netstandard2.0\OverlayExample.pdb
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.App.xaml.g.cs
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.MainPage.xaml.g.cs
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.AssemblyInfo.cs
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.dll
+C:\Users\admin\source\repos\OverlayExample\OverlayExample\OverlayExample\obj\Debug\netstandard2.0\OverlayExample.pdb
